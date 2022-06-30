@@ -1,0 +1,38 @@
+p{
+    text-align: center;
+    font-size: large;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline rgb(83, 136, 133);
+}
+
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(-30deg, rgb(83, 136, 133) 50%, white 50%);
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#botones{
+    text-align: center;
+}
+
+#Fila1Bandanas{
+    margin-top: 12px;
+    margin-bottom: 25px;
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
